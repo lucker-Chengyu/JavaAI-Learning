@@ -1,4 +1,4 @@
-public class getter_setter {
+public class Day05_getter_setter {
     public static void main(String[] args) {
         User u = new User("Alice", 22, "alice@monash.edu");
         System.out.println(u.getName());
